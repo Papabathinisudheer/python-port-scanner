@@ -3,7 +3,7 @@
 
 **Internship:CODTECH  
 **Project:Python Port Scanner  
-**Author:Venkat Sudheer
+**Author:Papabathini Venkat Sudheer
 
 ## 1. Project Overview
 This project is a basic TCP port scanner developed using Python.
@@ -55,4 +55,4 @@ Use this tool only on systems you own or have explicit
 permission to test. Scan only the ports required for your test.
 
 ## 9. Author
-Venkat Sudheer
+Papabathini Venkat Sudheer
